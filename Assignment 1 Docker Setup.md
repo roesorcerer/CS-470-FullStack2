@@ -8,9 +8,11 @@
  <br>
 •	Screenshot of the Docker dashboard to show that the application is running<br>
 ![Screenshot 1](screenshots/dockerRun.png)<br><br><br>
-•	Screenshot showing that the Docker run command is functioning
-•	 
-•	 
+•	Screenshot showing that the Docker run command is functioning<br>
+![Screenshot 1](screenshots/dockerFunctioning.png)<br>
+![Screenshot 1](screenshots/dockerFunctioning2.png)<br><br><br><br>
+
+
 •	Optional Extension Activity:
 •	 
 •	 
