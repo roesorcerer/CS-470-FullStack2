@@ -10,7 +10,7 @@
 ![Screenshot 1](screenshots/dockerRun.png)<br><br><br>
 •	Screenshot showing that the Docker run command is functioning<br>
 ![Screenshot 1](screenshots/dockerFunctioning.png)<br>
-![Screenshot 1](screenshots/dockerFunctioning2.png)<br><br><br><br>
+![Screenshot 1](screenshots/dockerFunctioning2.png)<br><br><br>
 
 
 •	*Optional Extension Activity:*<br><br>
