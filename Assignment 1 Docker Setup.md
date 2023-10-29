@@ -6,8 +6,8 @@
 *August 29, 2023*<br>
  <br>
  <br>
-•	Screenshot of the Docker dashboard to show that the application is running
-![Screenshot 1](screenshots/dockerRun.png)
+•	Screenshot of the Docker dashboard to show that the application is running<br>
+![Screenshot 1](screenshots/dockerRun.png)<br><br><br>
 •	Screenshot showing that the Docker run command is functioning
 •	 
 •	 
