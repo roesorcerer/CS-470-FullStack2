@@ -1,9 +1,9 @@
-**1-3 Assignment: Installation, MongoDB Image, and Testing**
-*Rowan Stratton*
-*Southern New Hampshire University*
-*CS-465-X6172 Full Stack Development I 23EW6*
-*Professor Nizar Dajani*
-*August 29, 2023*
+**1-3 Assignment: Installation, MongoDB Image, and Testing**<br>
+*Rowan Stratton*<br>
+*Southern New Hampshire University*<br>
+*CS-465-X6172 Full Stack Development I 23EW6*<br>
+*Professor Nizar Dajani*<br>
+*August 29, 2023*<br>
  <br>
  <br>
 •	Screenshot of the Docker dashboard to show that the application is running
