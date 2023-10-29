@@ -13,7 +13,8 @@
 ![Screenshot 1](screenshots/dockerFunctioning2.png)<br><br><br><br>
 
 
-•	Optional Extension Activity:
-•	 
-•	 
+•	*Optional Extension Activity:*<br><br>
+ ![Screenshot 1](screenshots/dockerContainer2.png)<br><br>
+ ![Screenshot 1](screenshots/dockerContainer2Func.png)<br>
+ 
 •	I have the container running – but no MongoDB because the image that I chose is NOT a supported image. I failed to realize this until after I created the container. 
